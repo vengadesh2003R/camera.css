@@ -1,0 +1,24 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(img3.jpg);
+    background-position: no-repeat;
+    background-position: center;
+}
+header{
+    display: flex;
+    padding: 10px 20px;
+    justify-content: space-between;
+    color: white;
+}
+nav li{
+    display: inline-block;
+    margin: 10px 20px;
+    font-weight: 900;
+    font-size: 22px;
+}
+section{
+    color: white;
+    text-align: center;
+    line-height-step;: 
+}
