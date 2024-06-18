@@ -8,7 +8,7 @@ body{
 }
 header{
     display: flex;
-    padding: 15px 30px;
+    padding: 10px 30px;
     justify-content: space-between;
     color: white;
     background-color: rgb(34, 32, 32);
@@ -53,6 +53,7 @@ div{
 
 .CodingLab{
     font-size: 50px;
+    margin-left: 10px;
 }
 
 
