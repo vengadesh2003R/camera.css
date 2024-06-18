@@ -4,21 +4,57 @@ body{
     background-image: url(img3.jpg);
     background-position: no-repeat;
     background-position: center;
+    font-family:  sans-serif;
 }
 header{
     display: flex;
-    padding: 10px 20px;
+    padding: 15px 30px;
     justify-content: space-between;
     color: white;
+    background-color: rgb(34, 32, 32);
 }
 nav li{
     display: inline-block;
     margin: 10px 20px;
     font-weight: 900;
-    font-size: 22px;
+    font-size: 25px;
 }
 section{
     color: white;
     text-align: center;
-    line-height-step;: 
+    margin-top: 150px;
+    font-size: 53px;
+
 }
+
+div{
+    text-align: center;
+}
+.Learnmore{
+    padding: 10px 30px;
+    font-size: 30px;
+    border-radius: 7px;
+    border: solid white;
+    background-color: black;
+    color: white;
+    margin: 18px;
+}
+
+.subscribe{
+    font-size: 30px;
+    border-radius: 7px;
+    padding:15px 30px ;
+    background-color: white;
+    color: black;
+    border: solid white;
+    margin-left: 20px;
+
+}
+
+.CodingLab{
+    font-size: 50px;
+}
+
+
+
+
