@@ -5,6 +5,7 @@ body{
     background-position: no-repeat;
     background-position: center;
     font-family:  sans-serif;
+    cursor: pointer;
 }
 header{
     display: flex;
